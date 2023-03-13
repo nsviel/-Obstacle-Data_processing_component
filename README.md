@@ -2,7 +2,7 @@
 
 Installed on the Edge server, it computes the raw LiDAR data into ego-localized full-frame point clouds in PLY binary format.
 
-![edge](https://user-images.githubusercontent.com/80487132/220377750-16f3b4ed-2f62-4616-bec8-3a99bcc367a3.png)
+![system](https://user-images.githubusercontent.com/80487132/224794520-227e36ad-7db9-4429-a631-140d74f330aa.png)
 
 ## Installation and execution
 
